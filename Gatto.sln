@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gatto", "Gatto\Gatto.csproj", "{F14A778D-15F0-4C20-82D8-E7DB34EFD9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gatto.Tests", "Gatto.Tests\Gatto.Tests.csproj", "{055F482D-C81D-4F02-8F8D-FA35D864D89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14A778D-15F0-4C20-82D8-E7DB34EFD9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14A778D-15F0-4C20-82D8-E7DB34EFD9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14A778D-15F0-4C20-82D8-E7DB34EFD9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14A778D-15F0-4C20-82D8-E7DB34EFD9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055F482D-C81D-4F02-8F8D-FA35D864D89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055F482D-C81D-4F02-8F8D-FA35D864D89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055F482D-C81D-4F02-8F8D-FA35D864D89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055F482D-C81D-4F02-8F8D-FA35D864D89E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
